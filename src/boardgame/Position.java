@@ -21,7 +21,7 @@ public class Position {
         return column;
     }
 
-    public void setColmn(int column) {
+    public void setColumn(int column) {
         this.column = column;
     }
 
